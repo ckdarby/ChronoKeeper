@@ -1,0 +1,3 @@
+ckdarby_chrono_keeper_homepage:
+    pattern:  /
+    defaults: { _controller: CkdarbyChronoKeeperBundle:Default:index }

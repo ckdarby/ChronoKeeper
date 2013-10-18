@@ -1,0 +1,4 @@
+ckdarby_chrono_keeper:
+    resource: "@CkdarbyChronoKeeperBundle/Resources/config/routing.yml"
+    prefix:   /
+

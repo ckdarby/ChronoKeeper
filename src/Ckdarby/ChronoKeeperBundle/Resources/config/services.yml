@@ -1,0 +1,7 @@
+parameters:
+#    ckdarby_chrono_keeper.example.class: Ckdarby\ChronoKeeperBundle\Example
+
+services:
+#    ckdarby_chrono_keeper.example:
+#        class: %ckdarby_chrono_keeper.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
